@@ -12,11 +12,14 @@ BaseballGameResult.py: score를 승무패 혹은 승1패로 바꿔주는 모듈
 결론
 승무패 정확도는 로지스틱 모델을 사용시 55% 이상이었다
 
+              precision    recall  f1-score   support
+
+        away       0.50      0.40      0.45       173
+        home       0.60      0.71      0.65       233
+        near       0.00      0.00      0.00         8
+
+    accuracy                           0.57       414
+   macro avg       0.37      0.37      0.36       414
+weighted avg       0.55      0.57      0.55       414
 
 
-다음 프로젝트를 위한 링크
-https://www.basketball-reference.com/leagues/NBA_2019_advanced.html#advanced_stats::ws - winshare
-
-http://insider.espn.com/nba/hollinger/statistics - per
-
-https://stats.nba.com/teams/advanced/?sort=OFF_RATING&dir=-1 - offrtg/defrtg
