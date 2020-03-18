@@ -28,5 +28,11 @@ WAR: http://www.statiz.co.kr/stat.php?
 무승부와 1점승부를 예측하는 것은 불가능하므로 이러한 방식으로 스포츠복권에서 유의미한 적중률을 기대하긴 어려워보인다.    
 다만 찍어서 맞추는 것 이상의 적중률은 기대할 수 있다
 
+###### 한국직업전문학교 무재칠시 링크
+https://github.com/Woosub-Kim/Project_KBO_Predict            
+https://github.com/Woosub-Kim/project_MLB_predict                           
+https://github.com/Woosub-Kim/project_NBA_predict                    
+https://github.com/Woosub-Kim/sports_predict_api                  
+https://github.com/namwon94/Project_Baseball                     
 
 
