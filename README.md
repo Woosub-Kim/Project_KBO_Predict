@@ -1,6 +1,8 @@
-# Project_KBO_Predict 
-## <한국직업전문학교 무재칠시 프로젝트>
+# <한국직업전문학교 무재칠시 프로젝트>
+#### Project_KBO_Predict 
 KBO의 경기결과를 세이버메트릭스로 예측하는 프로젝트
+
+# 파일설명
 Crawling.ipynb: 필요한 자료를 csv파일 형태로 크롤링
 DataPreprocessing.ipynb: csv파일의 전처리
 ModelSelection.ipynb: 어떤 알고리즘으로 학습할 것인지 테스트하기
