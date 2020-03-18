@@ -18,8 +18,10 @@ WAR: http://www.statiz.co.kr/stat.php?
 
 # 결론
 승무패 정확도는 로지스틱 모델을 사용시 55% 이상이었다
+
 ### 승무패
 <img src='https://github.com/Woosub-Kim/Project_KBO_Predict/blob/master/KBO.PNG' />
+
 ### 승1패
 <img src='https://github.com/Woosub-Kim/Project_KBO_Predict/blob/master/KBO2.PNG' />
 
