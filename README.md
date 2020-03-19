@@ -31,10 +31,12 @@ WAR: http://www.statiz.co.kr/stat.php?
 다만 찍어서 맞추는 것 이상의 적중률은 기대할 수 있다
 
 ###### 한국직업전문학교 무재칠시 링크
-https://github.com/Woosub-Kim/Project_KBO_Predict            
-https://github.com/Woosub-Kim/project_MLB_predict                           
-https://github.com/Woosub-Kim/project_NBA_predict                    
-https://github.com/Woosub-Kim/sports_predict_api                  
-https://github.com/namwon94/Project_Baseball                     
+|설명|링크|
+|----|----|
+|KBO경기 예측| https://github.com/Woosub-Kim/Project_KBO_Predict |            
+|MLB경기 예측| https://github.com/Woosub-Kim/project_MLB_predict |                           
+|NBA경기 예측| https://github.com/Woosub-Kim/project_NBA_predict |                    
+|API| https://github.com/Woosub-Kim/sports_predict_api |                  
+|WEB| https://github.com/namwon94/Project_Baseball |                         
 
 
