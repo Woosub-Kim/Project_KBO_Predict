@@ -1,4 +1,4 @@
-# <한국직업전문학교 무재칠시 프로젝트> With 
+# <한국직업전문학교 무재칠시 프로젝트> with <a href='https://github.com/namwon94'>김남원</a>
 #### Project_KBO_Predict 
 KBO의 경기결과를 세이버메트릭스로 예측하는 프로젝트
 
